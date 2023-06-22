@@ -11,3 +11,4 @@ Olá bem vindo, ao meu aprendizado sobre git e seus comandos.
 
 
 
+teste para saber se retirando um acesso ira sair 
